@@ -217,3 +217,6 @@ The successful form submission and database records confirm that the main deploy
 12. Security Note
 
 The root password shown in the setup commands is suitable only for documenting a test environment and should not be used in production. Use a strong password, create a dedicated database user for the application, and restrict administrative access.
+<img width="1366" height="768" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/20bc3ea3-ba99-44fa-ab3d-f78184b39dd5" />
+<img width="1366" height="768" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/dafc6460-cca2-432c-a0d8-77145718e9f1" />
+
