@@ -94,7 +94,7 @@ Navigate to the Nginx web root and clone the project repository.
 
 bash
 cd /usr/share/nginx/html
-sudo git clone https://github.com/Sushant123456789/php-project.git
+sudo git clone https://github.com/Snehal167/PHP_Project.git
 
 
 Check the project directory:
